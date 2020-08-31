@@ -1,0 +1,7 @@
+.input-wrapper input:focus::placeholder {
+  color: rgb(0, 0, 0);
+}
+
+.input-wrapper input:focus {
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
